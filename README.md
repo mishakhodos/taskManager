@@ -2,7 +2,7 @@
 ## About this project
 This project represents the implementation of a test task.
 The project is a simple API for task manager system that will allow users to create an account and manage their tasks.
-##Features
+## Features
 + create task
 + update task
 + get list of task
