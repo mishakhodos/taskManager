@@ -15,4 +15,6 @@ The project is a simple API for task manager system that will allow users to cre
 
 ## Run the System
 We can easily run the whole with only a single command:
+
 ```docker compose up```
+then follow the link: `http://localhost:8080/swagger-ui/index.html`
